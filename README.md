@@ -3,11 +3,17 @@ A 10GHz CMOS Frequency Divider
 Key Features
 
 -Divide-by-2 RF frequency divider using regenerative operation
+
 -Accepts sinusoidal small-signal inputs
+
 -Differential small-swing outputs
+
 -Implemented in 90 nm CMOS
+
 -Ultra-low power consumption (~0.11 mW @ 1.2 V)
+
 -Verified through transient simulations and power vs frequency analysis
+
 
 SCHEMATIC
 
